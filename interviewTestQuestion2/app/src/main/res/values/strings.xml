@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InterviewTestQuestion2</string>
+    <string name="title">Question 2</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+</resources>
