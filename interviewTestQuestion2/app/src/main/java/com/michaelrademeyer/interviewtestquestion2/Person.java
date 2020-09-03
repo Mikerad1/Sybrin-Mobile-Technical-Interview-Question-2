@@ -4,7 +4,7 @@ import androidx.room.*;
 
 @Entity
 public class Person {
-    @PrimaryKey
+    @PrimaryKey(autoGenerate = true)
     public int personID;
 
     @ColumnInfo(name = "firstName")
@@ -18,4 +18,6 @@ public class Person {
 
     @ColumnInfo(name = "age")
     public int age;
+
+
 }

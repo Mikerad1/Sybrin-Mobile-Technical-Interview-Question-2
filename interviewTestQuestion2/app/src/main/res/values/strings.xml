@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">InterviewTestQuestion2</string>
+    <string name="app_name">Interview Test Question 2</string>
     <string name="title">Question 2</string>
     <string name="firstName">First Name</string>
     <string name="lastName">Last Name</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="viewAllData">View All Data</string>
+    <string name="captureData">Capture Data</string>
+    <string name="dataHeading">First Name | Last Name | Country | Age</string>
 </resources>
